@@ -1,6 +1,0 @@
-streamlit
-langchain-openai
-langchain-community
-langchain
-PyPDF2
-langchain-huggingface
