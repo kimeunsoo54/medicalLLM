@@ -1,8 +1,6 @@
 streamlit
-tempfile
-langchain_openai
-langchain_community
+langchain-openai
+langchain-community
 langchain
-src
 PyPDF2
-langchain_huggingface
+langchain-huggingface
