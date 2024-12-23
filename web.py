@@ -12,7 +12,7 @@ from src.vectorstore import load_vectorstore, save_vectorstore
 # 파라미터
 VECTORSTORE_PATH = ".vectorstore.faiss"
 
-st.set_page_config(page_title="나만의 의료 챗봇 만들기", page_icon="🩺")
+st.set_page_config(page_title="Medical LLM Development", page_icon="🩺")
 
 # 세션 상태 초기화
 if "api_key" not in st.session_state:
