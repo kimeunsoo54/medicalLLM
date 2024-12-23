@@ -1,5 +1,4 @@
 streamlit
-os
 tempfile
 langchain_openai
 langchain_community
